@@ -64,7 +64,7 @@ p {
 
 /* Hero Section */
 .hero {
-    background-image: url('images/car4.jpg'); /* Replace with your background image */
+    background-image: url('car4.jpg'); /* Replace with your background image */
     background-size: cover;
     background-position: center;
     color: white;
