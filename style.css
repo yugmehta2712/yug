@@ -64,7 +64,7 @@ p {
 
 /* Hero Section */
 .hero {
-    background-image: url('car4.jpg'); /* Replace with your background image */
+    background-image: url('images/car4.jpg'); /* Replace with your background image */
     background-size: cover;
     background-position: center;
     color: white;
@@ -300,3 +300,7 @@ button:hover {
 }
 
 /* ... rest of your CSS ... */
+<form method="post" action="buy_now.php"> 
+    <input type="hidden" name="car_id" value="1">
+    <button type="submit" class="buy-now">Buy Now</button> 
+</form> 
